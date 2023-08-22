@@ -10,5 +10,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessafmg&layout=compact)](https://github.com/vanessafmg/github-readme-stats)
 
 
-![Vanessa GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessafmg&show_icons=true&theme=radical)
+![Vanessa GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessafmg&show_icons=true&theme=buefy)
 
